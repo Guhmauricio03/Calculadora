@@ -1,0 +1,7 @@
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\bin\Debug\MainApp.exe
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\bin\Debug\MainApp.pdb
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\obj\Debug\MainApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\obj\Debug\MainApp.exe
+C:\Users\gustavo mauricio\Documents\codes\Github\Calculadora\Calculadora\MainApp\obj\Debug\MainApp.pdb
